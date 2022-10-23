@@ -1,9 +1,6 @@
 import './style.css'
+import './ejemplos/05-aplicacion-practica'
+import { crearInfoPersona } from './ejemplos/02-funciones';
 
-const app = document.querySelector<HTMLDivElement>('#app')!
-
-app.innerHTML = `
-  <h1>CleanCode y SOLID</h1>
-  <span>Revisar la consola de JavaScript</span>
-`
+console.log("infoPersona",crearInfoPersona("Ricardo",28));
 

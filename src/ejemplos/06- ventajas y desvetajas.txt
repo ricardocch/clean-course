@@ -1,0 +1,10 @@
+Ventajas:
+Ayuda a documentar el codigo
+Ayuda a autocompletar el codigo en tiempo de escritura
+Ayuda a detectar posibles fallos que se podrian dar en tiempo de ejecucion
+Tipado Fuerte
+
+Deventajas
+Se pierde el en parte el tipado dinamico
+Se debe de escibir mas codigo
+La forma de programar es mas rigida

@@ -6,3 +6,15 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+#app input{
+  width: 50%;
+}
+
+#Pokemon{
+  text-align: center;
+}
+
+#Pokemon img{
+  width: 200px;
+}
